@@ -1,5 +1,5 @@
-# Ideia Conjunta
-## Plataforma de visualização e gerenciamento de iniciativas para participação da comunidade.
+# NOME (ainda não escolhido)
+## Plataforma de divulgação e gerenciamento de iniciativas ambientais em comunidades locais.
 
 ## 1. Visão geral
 ### 1.1. Descrição
